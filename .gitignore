@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# ignore all temporary images
+*.png
+*.jpg
+*.jpeg
+
+# ignore user data
+user_data.py
+
+# ignore temp vk config
+vk_config.v2.json
+
+# ignore nn models
+*.pth
+*.pb
