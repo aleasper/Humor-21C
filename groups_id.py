@@ -14,7 +14,6 @@ rus_groups = [ -34824571, -45745333, -152435896,\
 
 '''dank memes''' '''beobanka''' '''eternal classic''' '''reddit'''
 en_groups = [-120254617, -67185996, -129440544, -150550417]
-
 # lapeko only
 #rus_groups = [-52946227, -192326058, -190470577, -192329801]
 
